@@ -1,0 +1,6 @@
+## To add a new slide space:
+
+1.navigation.yml; _config.yml; 
+2.ADD 'new_slide_name.md' in '_pages' folder, change its 'title', 'paralink', and 'site.new_slide_name';
+3.ADD new folder '_new_slide_name', add the Contents as each md file;
+4.If need, the 'layout' can be changed, and the specific layout scenario in each 'layout' html file can also be changed.

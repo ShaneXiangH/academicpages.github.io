@@ -12,6 +12,7 @@ permalink: /research/2019-05 to 2021-06 Collaborative Motion and Multi-target Se
 
 
 Collaborative Motion and Multi-target Searching Methods of Swarm Intelligent Robots |Team Leader         09/2019 - 05/2021
+
 Awarded 2020 "Climbing Plan" Special Fund for Science and Technology Innovation Cultivation of College Students in Guangdong Province (Funding code: PDJH2020b0522, Percentage: 10/400+, Fund received＞RMB 40,000, 12/2019)
 
 Employed the strategy of collaborative motion and multi-target searching of swarm intelligent robots under the condition of decentralized topology architecture and limited sense of perception and info-communication ability
