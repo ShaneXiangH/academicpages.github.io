@@ -20,6 +20,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Scholarships
+======
+* 3rd Class of the Merit Student Scholarship for Exceptional Performance in the Academic Year 2019-2020    
+* 3rd Class of the Merit Student Scholarship for Exceptional Performance in the Academic Year 2017-2018  
+* 3rd Class of the Merit Student Scholarship for SUSTech Freshman 
+
+Honors
+======
+* Excellent Graduate for Exceptional Performance in the SUSTech (Top 10% in the University)
+* Highest Honors in Computer Science and Engineering for outstanding achievement in the undergraduate program (2017-2021)
+* Shuren College Outstanding Graduates for Exceptional Performance in the SUSTech
+
+
 Work experience
 ======
 * Summer 2015: Research Assistant
