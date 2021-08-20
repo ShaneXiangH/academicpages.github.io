@@ -5,7 +5,7 @@ permalink: /publication/2020-11-28-Exploration Enhanced RPSO for Collaborative M
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-28
 venue: 'Hindawi, Complexity'
-# paperurl: 'https://doi.org/10.1155/2020/8863526'
+paperurl: 'https://doi.org/10.1155/2020/8863526'
 citation: 'Jian Yang, Ruilin Xiong, Xinhao Xiang, Yuhui Shi, "Exploration Enhanced RPSO for Collaborative Multitarget Searching of Robotic Swarms", Complexity, vol. 2020, Article ID 8863526, 12 pages, 2020. https://doi.org/10.1155/2020/8863526'
 ---
 
