@@ -6,10 +6,8 @@ permalink: /publication/2021-07-07-Robotic Brain Storm Optimization - A Multi-ta
 date: 2021-07-07
 venue: 'Springer, Cham'
 # paperurl: 'https://doi.org/10.1007/978-3-030-78811-7_16'
-# citation: 'Yang J., Zhao D., Xiang X., Shi Y. (2021) Robotic Brain Storm Optimization: A Multi-target Collaborative Searching Paradigm for Swarm Robotics. In: Tan Y., Shi Y. (eds) Advances in Swarm Intelligence. ICSI 2021. Lecture Notes in Computer Science, vol 12690. Springer, Cham.'
+citation: 'Yang J., Zhao D., Xiang X., Shi Y. (2021) Robotic Brain Storm Optimization: A Multi-target Collaborative Searching Paradigm for Swarm Robotics. In: Tan Y., Shi Y. (eds) Advances in Swarm Intelligence. ICSI 2021. Lecture Notes in Computer Science, vol 12690. Springer, Cham.'
 ---
-
-
 
 ### Abstract
 
