@@ -3,8 +3,8 @@ title: "Collaborative Motion and Multi-target Searching Methods of Swarm Intelli
 collection: research
 permalink: /research/2019-05 to 2021-06 Collaborative Motion and Multi-target Searching Methods of Swarm Intelligent Robots
 # excerpt: ''
-# date: 2020-11-28
-# venue: 'Hindawi, Complexity'
+date: 2019-05 to 2021-06
+venue: 'Department of Computer Science and Engineering, SUSTech'
 # paperurl: 'https://doi.org/10.1155/2020/8863526'
 # citation: ''
 ---
